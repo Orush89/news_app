@@ -26,7 +26,6 @@ As the name suggests - it will show news, fake news, to be exact
 
 `.env` file in the server directory
 
-
 ### Installation (also runs when starting the app)
 1. Install server dependencies:
 ```bash
@@ -44,7 +43,8 @@ npm install
 You can start both the server and UI with a single command:
 
 ```bash
-./dev.sh
+nvm use
+./start.sh
 ```
 
 Alternatively, you can start them separately:
@@ -65,7 +65,4 @@ DEBUG:
 ```base
 cd server
 npm run start:dev --watch
-```# news_app
-# news_app
-# news_app
-# news_app
+```
