@@ -11,7 +11,7 @@ As the name suggests - it will show news, fake news, to be exact
 .
 ├── ui/              # React UI application
 ├── server/          # NestJS server application
-├── dev.sh          # Development script
+├── start.sh         # Local install + start script
 └── README.md
 ```
 
